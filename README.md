@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Nolan-Olhausen/Nolan-Olhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+    <p>
+        <a href="https://hits.sh/github.com/Nolan-Olhausen/"><img alt="Hits" src="https://hits.sh/github.com/Nolan-Olhausen.svg?label=Profile%20Views&logo=github"/></a>
+      <img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNolan-Olhausen&query=followers&style=flat&logo=github&label=Followers&color=%23007ec6">
+    </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <p>
+        <img src="https://github.com/Nolan-Olhausen/Nolan-Olhausen/blob/main/resources/pudgeyPenguinCoding.gif" width="300" height="300" alt="I like pressing buttons." />
+    </p>
+</div>
+
