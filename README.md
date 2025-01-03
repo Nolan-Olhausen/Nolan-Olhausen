@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/Nolan-Olhausen/Nolan-Olhausen/blob/main/header.svg" width="800" height="200" alt="Nolan Olhausen">
+	<img src="https://github.com/Nolan-Olhausen/Nolan-Olhausen/blob/main/header.svg" width="1000" height="200" alt="Nolan Olhausen">
 </div>
 
 <div align="center">
