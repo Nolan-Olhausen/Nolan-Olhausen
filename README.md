@@ -9,7 +9,7 @@
 	<a href="https://github.com/Nolan-Olhausen/GBA-Emulator">
   		<img alt="Static Badge" src="https://img.shields.io/badge/GBA_Emulator-brightgreen?style=flat&logo=github&label=Working%20On&color=%23E4080A&link=https%3A%2F%2Fgithub.com%2FNolan-Olhausen%2FGBA-Emulator">
 	</a>
-	<a href="www.linkedin.com/in/nolan-olhausen-8a0ab3280">
+	<a href="https://linkedin.com/in/nolan-olhausen-8a0ab3280">
   		<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?label=Social">
 	</a>
     </p>
