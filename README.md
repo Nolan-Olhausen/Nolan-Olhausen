@@ -4,7 +4,7 @@
 
 <div align="center">
     <p>
-        <a href="https://hits.sh/github.com/Nolan-Olhausen/"><img alt="Hits" src="https://hits.sh/github.com/Nolan-Olhausen.svg?label=Profile%20Views&logo=github"/></a>
+        <img alt="Hits" src="https://hits.sh/github.com/Nolan-Olhausen.svg?label=Profile%20Views&logo=github"/>
       	<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNolan-Olhausen&query=followers&style=flat&logo=github&label=Followers&color=%23CC6CE7">
 	<a href="https://github.com/Nolan-Olhausen/GBA-Emulator">
   		<img alt="Static Badge" src="https://img.shields.io/badge/GBA_Emulator-brightgreen?style=flat&logo=github&label=Working%20On&color=%23E4080A&link=https%3A%2F%2Fgithub.com%2FNolan-Olhausen%2FGBA-Emulator">
