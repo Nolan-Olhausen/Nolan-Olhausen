@@ -47,3 +47,37 @@
     </p>
 </div>
 
+<div align="center">
+  <h2>Tech Stack</h2>
+  
+  <h3>Languages</h3>
+  <img alt="Static Badge" src="https://img.shields.io/badge/C-C?logo=c&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-Java?logo=java&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-JavaScript?logo=javascript&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C_Sharp-C_Sharp?color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Dart-Dart?logo=dart&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/HTML-HTML?logo=html5&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-Python?logo=python&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/PHP-PHP?logo=php&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Ruby-Ruby?logo=ruby&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-C%2B%2B?logo=c%2B%2B&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Go-Go?logo=go&color=%23505050">
+
+  <h3>Frameworks & Libraries</h3>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-Flutter?logo=flutter&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-JQuery?logo=jquery&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SDL2-SDL2?color=%23505050">
+
+  <h3>Tools & Platforms</h3>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unity-Unity?logo=unity&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Unreal_Engine-Unreal_Engine?logo=unrealengine&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-MySQL?logo=mysql&color=%23505050">
+
+</div>
+
+
+<div align="center">
+    <h2>Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=Nolan-Olhausen&show_icons=true&theme=dark&hide_title=true" alt="Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Olhausen&theme=dark&layout=compact" alt="Top Languages">
+</div>
