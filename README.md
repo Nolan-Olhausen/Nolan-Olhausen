@@ -78,6 +78,6 @@
 
 <div align="center">
     <h2>Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nolan-Olhausen&show_icons=true&theme=dark&hide_title=true" alt="Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Nolan-Olhausen&show_icons=true&theme=dark&hide_title=true" alt="Github Stat">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Olhausen&theme=dark&layout=compact" alt="Top Languages">
 </div>
