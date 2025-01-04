@@ -78,6 +78,7 @@
 
 <div align="center">
     <h2>Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Nolan-Olhausen&show_icons=true&theme=dark&hide_title=true" alt="Github Stat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Olhausen&theme=dark&layout=compact" alt="Top Languages">
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nolan-Olhausen&show_icons=true&hide_title=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nolan-Olhausen&layout=compact&theme=dark)
