@@ -72,6 +72,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-Unity?logo=unity&color=%23505050">
   <img alt="Static Badge" src="https://img.shields.io/badge/Unreal_Engine-Unreal_Engine?logo=unrealengine&color=%23505050">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-MySQL?logo=mysql&color=%23505050">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-Heroku?logo=heroku&color=%23505050">
+
 
 </div>
 
