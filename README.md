@@ -64,6 +64,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Go-Go?logo=go&color=%23505050">
 
   <h3>Frameworks & Libraries</h3>
+  <img alt="Static Badge" src="https://img.shields.io/badge/React-React?logo=react&color=%23505050">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-Flutter?logo=flutter&color=%23505050">
   <img alt="Static Badge" src="https://img.shields.io/badge/JQuery-JQuery?logo=jquery&color=%23505050">
   <img alt="Static Badge" src="https://img.shields.io/badge/SDL2-SDL2?color=%23505050">
